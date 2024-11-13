@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shkolo</title>
+    <title>Dashboard</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -117,7 +117,7 @@
 <body>
 
     <header>
-        <div>Shkolo</div>
+        <div>Shkolo Dashboard</div>
     </header>
 
     <main>
@@ -125,7 +125,7 @@
     </main>
 
     <footer>
-        <div>© 2024 Your Company</div>
+        <div>© 2024 Shkolo</div>
     </footer>
 
 </body>
