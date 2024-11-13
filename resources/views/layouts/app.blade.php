@@ -74,6 +74,7 @@
             font-weight: bold;
             text-align: center;
             text-decoration: none;
+            background-color: black;
         }
 
         .tile-empty {
