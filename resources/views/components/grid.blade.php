@@ -2,7 +2,7 @@
     @foreach ($positions as $position)
         @if ($position->link)
             <div class="tile-container">
-                <a href="{{ $position->link->url }}" class="tile" style="background-color: {{ $position->link->color }};">
+                <a href="{{ $position->link->url }}" class="tile" style="background-color: {{ $position->link->color }};" target="_blank">
                     {{ $position->link->title }}
                 </a>
                 <div class="button-container">
