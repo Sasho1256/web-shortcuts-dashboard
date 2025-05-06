@@ -10,7 +10,7 @@
 <body>
 
     <header>
-        <div>Shkolo Dashboard</div>
+        <div>Shortcut Dashboard</div>
     </header>
 
     <main>
@@ -18,7 +18,7 @@
     </main>
 
     <footer>
-        <div>© 2024 Shkolo</div>
+        <div>© 2024 My Shortcuts</div>
     </footer>
 
 </body>
